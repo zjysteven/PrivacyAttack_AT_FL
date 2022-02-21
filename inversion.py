@@ -10,7 +10,7 @@ import torch.cuda.amp as amp
 
 from robustness.attacker import AttackerModel
 from utils import Focus, Jitter, Clip
-from dip_models import skip
+#from dip_models import skip
 
 
 
@@ -397,7 +397,7 @@ class RepInversion():
             return best_x, best_loss, stats#, gradients
         else:
             return x_trial, loss, stats#, gradients
-
+    """
     def _run_zoomcenter(self, model, x_trial, targets):
         stats_keys = ['loss', 'inv_loss', 'bn_loss', 'tv_l1_loss', 'tv_l2_loss', 'l2_loss']
         stats = [{k: [] for k in stats_keys} for _ in range(len(x_trial))]
@@ -754,7 +754,7 @@ class RepInversion():
             return best_x, best_loss, stats#, gradients
         else:
             return out, loss, stats#, gradients
-    
+    """
 
 # a function that updates the best loss and best input
 def replace_best(loss, bloss, x, bx):
