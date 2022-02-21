@@ -31,7 +31,7 @@ Follow the commands below to set up the environment.
 ```
 conda create -n AT-privacy python=3.8
 conda activate AT-privacy
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### Dataset
