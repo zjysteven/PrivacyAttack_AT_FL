@@ -38,7 +38,7 @@ pip install -r requirements.txt
 We use [ImageNet](https://www.image-net.org/) as the dataset. To run our experiments, make sure that you download the ImageNet and have `train/`, `val/` subfolder inside the root directory. 
 
 ### Models
-We use pre-trained models from [robust-transfer](https://github.com/microsoft/robust-models-transfer) repo. `download_pretrained_models` is a sample download script. 
+We use pre-trained models from [robust-transfer](https://github.com/microsoft/robust-models-transfer) repo. `download_pretrained_models.sh` is a sample download script. 
 
 ## Reproducing experiments
 All experiments can be reproduced by running `main.py`. We provide a sample script `main.sh`. Remember to change the directory of ImageNet to your own version.
