@@ -1,6 +1,6 @@
 # Sec 5.2
 python main.py \
-    --inet-dir /home/public/ImageNet \  # change to your ImageNet directory
+    --inet-dir /home/public/ImageNet \
     --gpu 6 7 \
     --expr rep_recover_acc \
     --batch-size 256 \
@@ -11,7 +11,7 @@ python main.py \
 
 # Sec 5.3
 python main.py \
-    --inet-dir /home/public/ImageNet \  # change to your ImageNet directory
+    --inet-dir /home/public/ImageNet \
     --gpu 6 7 \
     --expr img_recover \
     --arch resnet50 \
