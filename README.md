@@ -6,7 +6,8 @@ This repository contains the code and models necessary to replicate the results 
 TBD...
 
 ## Overview
-![](/figures/overview.png){:height="50%" width="50%"}
+
+<img src='/figures/overview.png' width='100'>
 
 
 
