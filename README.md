@@ -6,7 +6,7 @@ This repository contains the code and models necessary to replicate the results 
 TBD...
 
 ## Overview
-![](/figures/overview.png)
+![](/figures/overview.png){:height="50%" width="50%"}
 
 
 
@@ -17,7 +17,7 @@ Federated Learning (FL) systems. Using our method, the attacker can exploit AT m
 See our paper for details!
 
 
-![](/figures/demo.png)
+![](/figures/demo.png){:height="50%" width="50%"}
 This figure visualizes the reconstructed images using Adversarial Training models (first row in each pair) and the ground-truth ones. The attacker can pretty accurately recover the training images of FL clients and thus compromise their privacy.
 
 
