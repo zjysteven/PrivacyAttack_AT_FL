@@ -1,0 +1,9 @@
+*__pycache__
+.ipynb*
+*.ipynb
+*models
+*results*
+main_1.sh
+main_2.sh
+num_param.py
+temp.npy
