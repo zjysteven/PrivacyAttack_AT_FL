@@ -2,8 +2,12 @@
 
 This repository contains the code and models necessary to replicate the results of our paper:
 
+***Privacy Leakage of Adversarial Training Models in Federated Learning Systems***
 
-TBD...
+[Jingyang Zhang](https://zjysteven.github.io/), Yiran Chen, Hai Li @ [Duke CEI Lab](https://cei.pratt.duke.edu/)
+
+Paper (arxiv preprint): https://arxiv.org/abs/2202.10546
+
 
 ## Overview
 <img src='/figures/overview.png' width='550'>
