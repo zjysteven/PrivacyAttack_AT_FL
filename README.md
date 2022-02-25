@@ -1,6 +1,6 @@
 # Exploiting Adversarial Training models to compromise privacy
 
-This repository contains the code and models necessary to replicate the results of our paper:
+This repository contains the code necessary to replicate the results of our paper:
 
 ***Privacy Leakage of Adversarial Training Models in Federated Learning Systems***
 
