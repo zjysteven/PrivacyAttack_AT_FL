@@ -10,7 +10,7 @@ Paper (arxiv preprint): https://arxiv.org/abs/2202.10546
 
 
 ## Overview
-<img src='/figures/overview.png' width='550'>
+<img src='/figures/overview_new.png' width='550'>
 
 
 Adversarial Training (AT) is crucial for obtaining deep neural networks that are robust to adversarial attacks, yet
