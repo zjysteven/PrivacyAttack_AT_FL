@@ -49,5 +49,10 @@ All experiments can be reproduced by running `main.py`. We provide a sample scri
 ## Reference
 If you find our work/code helpful, please consider citing our work.
 ```
-TBD
+@article{zhang2022privacy,
+  title={Privacy Leakage of Adversarial Training Models in Federated Learning Systems},
+  author={Zhang, Jingyang and Chen, Yiran and Li, Hai},
+  journal={arXiv preprint arXiv:2202.10546},
+  year={2022}
+}
 ```
