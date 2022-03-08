@@ -10,8 +10,9 @@ Paper (arxiv preprint): https://arxiv.org/abs/2202.10546
 
 
 ## Overview
+<center>
 <img src='/figures/overview_new.png' width='550'>
-
+</center>
 
 Adversarial Training (AT) is crucial for obtaining deep neural networks that are robust to adversarial attacks, yet
 recent works found that it could also make models more vulnerable to privacy attacks. In this work, we further reveal
@@ -19,8 +20,9 @@ this unsettling property of AT by designing a novel privacy attack that is pract
 Federated Learning (FL) systems. **Using our method, the attacker can exploit AT models in the FL system to accurately reconstruct users’ private training images even when the training batch size is large,** despite that previously large batch training was thought to be able to protect the privacy. In other words, **we demonstrate that any FL clients that perform AT are putting their privacy at risk**. The above figure is an overview of our attack.
 See our paper for details!
 
-
+<center>
 <img src='/figures/demo.png' width='650'>
+</center>
 This figure visualizes the reconstructed images using Adversarial Training models (first row in each pair) and the ground-truth ones. The attacker can pretty accurately recover the training images of FL clients and thus compromise their privacy.
 
 
