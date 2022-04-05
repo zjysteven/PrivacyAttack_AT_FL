@@ -4,6 +4,8 @@ This repository contains the code necessary to replicate the results of our pape
 
 ***Privacy Leakage of Adversarial Training Models in Federated Learning Systems***
 
+[*CVPR'22 Workshop: The Art of Robustness*](https://artofrobust.github.io/)
+
 [Jingyang Zhang](https://zjysteven.github.io/), Yiran Chen, Hai Li @ [Duke CEI Lab](https://cei.pratt.duke.edu/)
 
 Paper (arxiv preprint): https://arxiv.org/abs/2202.10546
