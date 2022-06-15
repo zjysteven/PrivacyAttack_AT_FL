@@ -1,4 +1,4 @@
-# Exploiting Adversarial Training models to compromise privacy
+# Exploiting Adversarial Training models to compromise FL's privacy
 
 This repository contains the code necessary to replicate the results of our paper:
 
